@@ -1,0 +1,4 @@
+cohere
+reportlab
+requests
+python-dotenv
