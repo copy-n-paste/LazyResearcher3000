@@ -57,7 +57,7 @@ python-dotenv
 1. **Clone this beautiful mess:**
 
 ```bash
-git clone https://github.com/your-username/LazyResearcher3000.git
+git clone https://github.com/copy-n-paste/LazyResearcher3000.git
 cd LazyResearcher3000
 ```
 
